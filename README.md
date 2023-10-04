@@ -7,3 +7,7 @@ This repo contain ideas on technical discussions in project management
 * one
 * two
 * three
+
+# Using gist file
+
+This is [my code](https://gist.github.com/sandeep0011/c5caeb55637f810999b36252bc4c6d26) example
