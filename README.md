@@ -19,5 +19,7 @@ This is the path for google colab [notebook](technical_docs.ipynb)
 
 ## This is the example of notebook code snippit
 
-(https://github.com/sandeep0011/Technical-Discussion/issues/1#issue-1927037140)
+<img width="495" alt="Screenshot 2023-10-04 at 4 52 12 PM" src="https://github.com/sandeep0011/Technical-Discussion/assets/15641699/f7db065e-9afa-4fbf-9a68-37cc8a5ea5e6">
+
+
 
